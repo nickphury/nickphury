@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nickphury
+- 👋 Hi, I’m Ali
 - 👀 I’m interested in Nodejs (server and client sides)
-- 🌱 I’m currently learning nestjs
+- 🌱 I’m currently learning Nx monorepo tool
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
