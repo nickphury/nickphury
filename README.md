@@ -6,7 +6,7 @@
 
 ___
 
-_<h3>“I'm not the real Nick Fury, but I have Nick Fury mindset, so know Nick, you'll know a part of me”</h3>_
+_<h3>“I'm not the real Nick Fury, but I have Nick Fury's mindset, so know Nick, you'll know a part of me”</h3>_
 
 <!---
 nickphury/nickphury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
